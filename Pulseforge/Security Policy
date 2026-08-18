@@ -1,0 +1,19 @@
+
+# Security Policy
+
+We take the security of our applications, user data, and serverless infrastructure very seriously. If you discover a security vulnerability within any application in our suite or our backend infrastructure, we appreciate your help in disclosing it responsibly.
+
+## Reporting a Vulnerability
+**Do not disclose security vulnerabilities publicly** via public issues, social media, or open forums until our team has had a reasonable opportunity to address them.
+
+To report a security issue:
+* Please submit details directly through our official support channels or private communication routes.
+* Include a detailed summary of the vulnerability, steps to reproduce, and potential impact.
+
+## What to Expect
+* **Acknowledgment:** We will review your report and acknowledge receipt.
+* **Investigation:** We will investigate the issue to determine its scope and severity across our API endpoints, storage layers, and client applications.
+* **Resolution:** If confirmed, we will deploy a patch or configuration update through our serverless pipeline (AWS Lambda/API Gateway) or push an application update to the relevant app stores. 
+
+Thank you for helping keep our application ecosystem secure!
+
