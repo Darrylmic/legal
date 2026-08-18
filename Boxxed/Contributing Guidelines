@@ -1,0 +1,19 @@
+
+# Contributing Guidelines
+
+Thank you for your interest in contributing to our application suite! Because our software architecture relies on a structured, centralized framework (including our Flutter frontends and serverless AWS backend), contributions are managed carefully to maintain security, stability, and performance.
+
+## How to Contribute
+While our core application suite and proprietary source code are managed internally, we welcome feedback, bug reports, and feature suggestions.
+
+### Reporting Bugs and Issues
+If you encounter a bug or unexpected behavior in any of our applications (including our chat utilities like Nucy):
+1. Check the existing issues or closed feedback logs to see if it has already been reported.
+2. Open a new issue with a clear, descriptive title.
+3. Provide steps to reproduce the issue, device/OS details, and screenshots or logs if applicable.
+
+### Suggesting Enhancements
+We are always looking to improve our utility fleet and agentic features. When suggesting a new feature:
+* Explain clearly what the feature should do.
+* Describe why this feature would be useful for the broader user base.
+* Provide examples or use cases if possible.
